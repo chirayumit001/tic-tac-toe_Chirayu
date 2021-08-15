@@ -1,6 +1,6 @@
 # tic_tac_toe
 
-Site link :-    https://mine-tic-tac-toe-game.netlify.app/#/
+Link :-    https://mine-tic-tac-toe-game.netlify.app/#/
 
 A new Flutter project.
 
